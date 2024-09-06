@@ -53,7 +53,7 @@
 - 웹툰 [게임 속 바바리안으로 살아남기]를 읽고, 작중 묘사되는 것과 같은 하드코어 로그라이크 RPG를 만들어보고 싶었습니다.
 
 ## 와이어프레임
-![image](https://github.com/user-attachments/assets/56fab4a0-ab87-41f0-a55d-737cd1b31ca1)
+  <img src = "https://github.com/user-attachments/assets/56fab4a0-ab87-41f0-a55d-737cd1b31ca1">
 
 
 ## 💜 주요기능
